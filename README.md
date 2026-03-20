@@ -67,9 +67,9 @@ python retrievedata.py
 
 ---
 
-Running the script generates CSV files, packaged in a zipped Dataset folder, containing the following information:
+Running the script generates CSV files packaged in a zipped Dataset folder. This folder also includes the 'BitcoinFog' dataset, which was retrieved from WalletExplorer:
 
----
+
 
 ## Feature Construction
 
