@@ -73,6 +73,7 @@ python retrievedata.py
 
 ## Feature Construction
 Running the script generates CSV files packaged in a zipped Dataset folder. This folder also includes the 'BitcoinFog' dataset, which was retrieved from WalletExplorer:
+
 Each row represents a **transaction pair context** and includes the following information:
 
 ### Previous Transaction
