@@ -67,7 +67,7 @@ python retrievedata.py
 
 ---
 
-Running the script produces CSV files containing the following information:
+Running the script generates CSV files, packaged in a zipped Dataset folder, containing the following information:
 
 ---
 
