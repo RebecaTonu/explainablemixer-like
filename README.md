@@ -1,7 +1,6 @@
 # Explainable Mixer-Like Behavior Detection in Bitcoin via Transaction-Level Heuristics
 
-This repository provides a reproducible pipeline for analyzing **mixer-like behavior in Bitcoin** using interpretable, transaction-level heuristics.  
-It includes scripts for dataset extraction from a Bitcoin Core node, heuristic-based analysis, and evaluation through metrics and visualizations.  
+This repository provides the code, datasets, and resources associated with “Explainable Mixer-Like Behavior Detection in Bitcoin via Transaction-Level Heuristics,” by Rebeca Tonu and Ciprian Pungilă. It includes a reproducible pipeline for extracting Bitcoin data, applying interpretable transaction-level heuristics, and evaluating mixer-like behavior through metrics and visualizations.
 
 ---
 
